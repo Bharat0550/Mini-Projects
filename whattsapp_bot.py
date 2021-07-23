@@ -121,3 +121,12 @@ def response(input_message):
         return 'Hello there'
     else:
         return 'Cool!'
+def response(input_message):
+    message = input_message.lower()
+
+    if message == 'nice':
+        return 'Very nice'
+    elif message == 'hello':
+        return 'Hello there'
+    else:
+        return 'Cool!'
