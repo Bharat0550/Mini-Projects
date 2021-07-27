@@ -1,4 +1,4 @@
-
+#To convert text into handwritting
 import pywhatkit as kit
 import cv2
 
