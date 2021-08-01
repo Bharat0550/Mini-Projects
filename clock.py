@@ -1,3 +1,5 @@
+# Python code to display an digital clock using Twitter library
+
 from tkinter import *
 from tkinter.ttk import *
 
