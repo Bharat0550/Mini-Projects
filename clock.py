@@ -17,5 +17,8 @@ time()
 
 mainloop()
 
+#it display a digital clock of black and cyan color
+
+
 
   
